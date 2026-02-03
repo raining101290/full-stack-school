@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Skool - School Management System
 
 ## Getting Started
 
